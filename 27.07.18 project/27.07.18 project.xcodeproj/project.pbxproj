@@ -14,6 +14,7 @@
 		79AE2C48210B1726003E16E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79AE2C47210B1726003E16E4 /* Assets.xcassets */; };
 		79AE2C4B210B1726003E16E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79AE2C49210B1726003E16E4 /* LaunchScreen.storyboard */; };
 		79EECE35210B1D4E00D0ADE7 /* Marat's storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79EECE34210B1D4E00D0ADE7 /* Marat's storyboard.storyboard */; };
+		FF0CEF3D210B4DFE00F37C8F /* Ulan's storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF0CEF3C210B4DFE00F37C8F /* Ulan's storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		79AE2C4C210B1726003E16E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79EECE34210B1D4E00D0ADE7 /* Marat's storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Marat's storyboard.storyboard"; sourceTree = "<group>"; };
 		F7BF8A4288664FC7DC786D49 /* Pods-27.07.18 project.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-27.07.18 project.debug.xcconfig"; path = "Pods/Target Support Files/Pods-27.07.18 project/Pods-27.07.18 project.debug.xcconfig"; sourceTree = "<group>"; };
+		FF0CEF3C210B4DFE00F37C8F /* Ulan's storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Ulan's storyboard.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				79AE2C40210B1725003E16E4 /* AppDelegate.swift */,
 				79AE2C42210B1725003E16E4 /* ViewController.swift */,
 				79AE2C44210B1725003E16E4 /* Main.storyboard */,
+				FF0CEF3C210B4DFE00F37C8F /* Ulan's storyboard.storyboard */,
 				79EECE34210B1D4E00D0ADE7 /* Marat's storyboard.storyboard */,
 				79AE2C47210B1726003E16E4 /* Assets.xcassets */,
 				79AE2C49210B1726003E16E4 /* LaunchScreen.storyboard */,
@@ -152,6 +155,7 @@
 			files = (
 				79EECE35210B1D4E00D0ADE7 /* Marat's storyboard.storyboard in Resources */,
 				79AE2C4B210B1726003E16E4 /* LaunchScreen.storyboard in Resources */,
+				FF0CEF3D210B4DFE00F37C8F /* Ulan's storyboard.storyboard in Resources */,
 				79AE2C48210B1726003E16E4 /* Assets.xcassets in Resources */,
 				79AE2C46210B1725003E16E4 /* Main.storyboard in Resources */,
 			);
